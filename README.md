@@ -180,6 +180,11 @@ Tests cover `StudentService`, `CourseService`, `AdminService`, and the Spring Bo
 - Auditing fields (`createdAt`, `updatedAt`)
 - Export/reporting features for students and courses
 
+  ## Project Maintenance
+
+This project is continuously improved to enhance
+its documentation, functionality, and maintainability.
+
 ## Author
 
 **Rivini Kavindaya** — Software Engineering Project, September 2026
